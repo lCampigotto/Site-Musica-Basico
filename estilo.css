@@ -1,0 +1,49 @@
+.d1 {
+	background-color: rgb(250, 214, 142);
+    padding: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   }
+.d2 {
+	background-color: Brown;
+    padding: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+image {
+    width: 300px;
+    height: auto;
+}
+label {
+	color: rgb(250, 214, 142);
+}
+h1,h3 {
+	color: Brown;	
+}
+a {
+	color: Brown;
+}
+input {
+	color: rgb(250, 214, 142);
+	Background-color: Brown;
+	border-color: rgb(250, 214, 142);
+}
+button {
+			color: rgb(250, 214, 142);
+			Background-color: Brown;
+	border-color: rgb(250, 214, 142);
+}
