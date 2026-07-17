@@ -1,10 +1,7 @@
 .d1 {
 	background-color: rgb(250, 214, 142);
     padding: 30px;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-left: 10px;
-    margin-right: 10px;
+
 
     display: flex;
     flex-direction: column;
@@ -14,10 +11,7 @@
 .d2 {
 	background-color: Brown;
     padding: 30px;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-top: 5px;
 
     display: flex;
     flex-direction: column;
