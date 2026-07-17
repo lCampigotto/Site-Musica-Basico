@@ -24,12 +24,30 @@
     justify-content: center;
     align-items: center;
 }
-image {
+.fotos_container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.alinha_texto {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 160px;
+    text-align: center;
+}
+.bloco_conteudo {
+    display: top;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+img {
     width: 300px;
     height: auto;
 }
 label {
-	color: rgb(250, 214, 142);
+	color: beige;
 }
 h1,h3 {
 	color: Brown;	
@@ -38,12 +56,12 @@ a {
 	color: Brown;
 }
 input {
-	color: rgb(250, 214, 142);
+	color: beige;
 	Background-color: Brown;
-	border-color: rgb(250, 214, 142);
+	border-color: beige;
 }
 button {
-			color: rgb(250, 214, 142);
+			color: beige;
 			Background-color: Brown;
-	border-color: rgb(250, 214, 142);
+	border-color: beige;
 }
